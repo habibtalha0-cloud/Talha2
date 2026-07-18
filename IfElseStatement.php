@@ -25,6 +25,6 @@ if($percentage>=90){
   else if($percentage>=60){
     echo "You got C";
  }
-  else {
+ else {
     echo "You are fail";
  }

@@ -11,4 +11,4 @@ echo pi ;
 echo "$username <br>";
 echo "$num <br>";
 echo "$bool <br>";
-echo "$float <br>";
+echo $float;
